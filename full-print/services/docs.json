@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Papel Bond Carta",
+        "description": "",
+        "price": 200,
+        "imageURL": "[folder]/servicios-impresiones-documentos.webp"
+    },
+    {
+        "name": "Papel Bond Oficio",
+        "description": "",
+        "price": 250,
+        "imageURL": "[folder]/servicios-impresiones-documentos.webp"
+    },
+    {
+        "name": "Papel Bond A3",
+        "description": "",
+        "price": 1900,
+        "imageURL": "[folder]/servicios-impresiones-documentos.webp"
+    },
+    {
+        "name": "Papel Bond A6",
+        "description": "",
+        "price": 100,
+        "imageURL": "[folder]/servicios-impresiones-documentos.webp"
+    },
+    {
+        "name": "Fotocopias",
+        "description": "",
+        "price": 150,
+        "imageURL": "[folder]/servicios-impresiones-documentos.webp"
+    }
+]
