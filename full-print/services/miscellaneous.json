@@ -1,8 +1,32 @@
 [
     {
-        "name": "",
-        "description": "",
-        "price": 0.0,
+        "name": "Anillado",
+        "description": "Aprovecha la promo impresión de libro + anillado",
+        "price": 3500,
         "imageURL": "[folder]/servicios-otros-anillado.webp"
+    },
+    {
+        "name": "Trámites en línea",
+        "description": "Desde certificados en línea a postulación a beneficio",
+        "price": 2000,
+        "imageURL": "**[folder]/servicios-otros-tramites.webp"
+    },
+    {
+        "name": "Redacción de Documentos",
+        "description": "Desde curriculum hasta cotizaciones",
+        "price": 2000,
+        "imageURL": "**[folder]/servicios-otros-redaccion.webp"
+    },
+    {
+        "name": "Código QR",
+        "description": "Para menus, redes sociales y mucho más",
+        "price": 5000,
+        "imageURL": "**[folder]/servicios-otros-qr.webp"
+    },
+    {
+        "name": "Mantenimiento de Impresoras",
+        "description": "Incluye limpieza de la impresora sin costo extra",
+        "price": 20000,
+        "imageURL": "**[folder]/servicios-otros-mantenimiento.webp"
     }
 ]

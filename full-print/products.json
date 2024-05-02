@@ -1,20 +1,38 @@
 [
     {
-        "name": "",
-        "description": "",
+        "name": "Sobres",
+        "description": "Tamaño carta, americano y más",
         "price": 0.0,
         "imageURL": "[folder]/productos-sobres.webp"
     },
     {
-        "name": "",
-        "description": "",
+        "name": "Folios",
+        "description": "Tamaño carta y oficio",
         "price": 0.0,
         "imageURL": "[folder]/productos-fundas.webp"
     },
     {
-        "name": "",
+        "name": "Carpetas Plastificadas",
         "description": "",
         "price": 0.0,
         "imageURL": "[folder]/productos-carpetas.webp"
+    },
+    {
+        "name": "Resma Carta",
+        "description": "Papel bond de 72g (250 hojas)",
+        "price": 4690,
+        "imageURL": "**[folder]/productos-resma-carta-1.webp"
+    },
+    {
+        "name": "Resma Carta",
+        "description": "Papel bond de 72g (500 hojas)",
+        "price": 8290,
+        "imageURL": "**[folder]/productos-resma-carta-2.webp"
+    },
+    {
+        "name": "Resma Oficio",
+        "description": "Papel bond de 72g (500 hojas)",
+        "price": 9690,
+        "imageURL": "**[folder]/productos-resma-oficio.webp"
     }
 ]

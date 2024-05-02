@@ -1,73 +1,73 @@
 [
     {
         "name": "Marca Páginas",
-        "description": "Tamaño y forma totalmente personalizado.",
+        "description": "Tamaño y forma totalmente personalizado",
         "price": 2000,
         "imageURL": "[folder]/servicios-publicidad-marcapaginas.webp"
     },
     {
         "name": "Tarjetas de Presentación",
-        "description": "A mayor cantidad, es menor el precio unitario.",
+        "description": "A mayor cantidad, es menor el precio unitario",
         "price": 18000,
         "imageURL": "[folder]/servicios-publicidad-tarjetas.webp"
     },
     {
         "name": "Imanes",
-        "description": "Tamaño y forma totalmente personalizado.",
+        "description": "Tamaño y forma totalmente personalizado",
         "price": 5000,
         "imageURL": "[folder]/servicios-publicidad-imanes.webp"
     },
     {
         "name": "Flyers",
-        "description": "A mayor cantidad, es menor el precio unitario.",
+        "description": "A mayor cantidad, es menor el precio unitario",
         "price": 19990,
         "imageURL": "[folder]/servicios-publicidad-flyers.webp"
     },
     {
         "name": "Posters",
-        "description": "",
+        "description": "Aprovecha la promoción poster + diseño del poster",
         "price": 6000,
         "imageURL": "[folder]/servicios-publicidad-posters.webp"
     },
     {
         "name": "Stickers",
-        "description": "Hacemos de todos los tamaños y medidas.",
+        "description": "Hacemos de todos los tamaños y medidas",
         "price": 5000,
         "imageURL": "[folder]/servicios-publicidad-stickers.webp"
     },
     {
         "name": "Diplomas",
-        "description": "Te hacemos un precio al diseñarlo con nosotros.",
+        "description": "Te hacemos un precio al diseñarlo con nosotros",
         "price": 4000,
         "imageURL": "[folder]/servicios-publicidad-diplomas.webp"
     },
     {
         "name": "Letreros",
-        "description": "",
+        "description": "Cotiza tu letrero ILUMINADO, y aprovecha la promo letrero + diseño",
         "price": 50000,
         "imageURL": "[folder]/servicios-publicidad-letreros.webp"
     },
     {
         "name": "Adhesivos PVC",
-        "description": "",
+        "description": "También hacemos en windows vision",
         "price": 25900,
         "imageURL": "[folder]/servicios-publicidad-pvc.webp"
     },
     {
         "name": "Invitaciones",
-        "description": "",
+        "description": "Aprovecha la promo de invitación + diseño + sobre",
         "price": 4000,
         "imageURL": "[folder]/servicios-publicidad-invitaciones.webp"
     },
     {
         "name": "Pendones",
-        "description": "",
+        "description": "Todos los tamaños, también con roller si lo necesita",
         "price": 20500,
         "imageURL": "[folder]/servicios-publicidad-pendones.webp"
     },
     {
         "name": "Postales",
-        "description": "También podemos mejorar la calidad de tu foto.",
+        "description": "También podemos mejorar la calidad de tu foto",
         "price": 2500,
         "imageURL": "**[folder]/servicios-publicidad-postales.webp"
     }
