@@ -1,0 +1,38 @@
+[
+    {
+        "name": "10×15cm",
+        "description": "$4.500 con cuadro",
+        "price": 1000,
+        "imageURL": "**[folder]/serv-pict-1015.webp"
+    },
+    {
+        "name": "13×18cm",
+        "description": "$5.500 con cuadro",
+        "price": 2000,
+        "imageURL": "**[folder]/serv-pict-1318.webp"
+    },
+    {
+        "name": "21×30cm",
+        "description": "$8.900 con cuadro",
+        "price": 4000,
+        "imageURL": "**[folder]/serv-pict-2130.webp"
+    },
+    {
+        "name": "30×40cm",
+        "description": "$12.500 con cuadro",
+        "price": 6000,
+        "imageURL": "**[folder]/serv-pict-3040.webp"
+    },
+    {
+        "name": "Restauración",
+        "description": "Tenemos descuento al imprimir la foto restaurada",
+        "price": 12000,
+        "imageURL": "**[folder]/serv-pict-restauracion.webp"
+    },
+    {
+        "name": "Mejora de Calidad",
+        "description": "Tenemos descuento al imprimirla",
+        "price": 5000,
+        "imageURL": "**[folder]/serv-pict-mejora.webp"
+    }
+]
