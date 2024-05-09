@@ -1,374 +1,254 @@
 [
     {
+        "category": "docs",
         "name": "Papel Bond Carta",
-        "img_url": "[folder]/serv-docs.webp",
-        "category": [
-            {
-                "type": "docs",
-                "price": 200,
-                "description": "Tenemos descuento desde las 20 unidades"
-            }
-        ]
+        "description": "Tenemos descuento desde las 20 unidades",
+        "price": 200,
+        "img_url": "[folder]/serv-docs.webp"
     },
     {
+        "category": "docs",
         "name": "Papel Bond Oficio",
-        "img_url": "[folder]/serv-docs.webp",
-        "category": [
-            {
-                "type": "docs",
-                "price": 250,
-                "description": "Tenemos descuento desde las 20 unidades"
-            }
-        ]
+        "description": "Tenemos descuento desde las 20 unidades",
+        "price": 250,
+        "img_url": "[folder]/serv-docs.webp"
     },
     {
+        "category": "docs",
         "name": "Papel Bond A3",
-        "img_url": "[folder]/serv-docs.webp",
-        "category": [
-            {
-                "type": "docs",
-                "price": 1900,
-                "description": "Tenemos descuento desde las 20 unidades"
-            }
-        ]
+        "description": "Tenemos descuento desde las 20 unidades",
+        "price": 1900,
+        "img_url": "[folder]/serv-docs.webp"
     },
     {
+        "category": "docs",
         "name": "Papel Bond A6",
-        "img_url": "[folder]/serv-docs.webp",
-        "category": [
-            {
-                "type": "docs",
-                "price": 100,
-                "description": "Tenemos descuento desde las 20 unidades"
-            }
-        ]
+        "description": "Tenemos descuento desde las 20 unidades",
+        "price": 100,
+        "img_url": "[folder]/serv-docs.webp"
     },
     {
+        "category": "docs",
         "name": "Fotocopias",
-        "img_url": "[folder]/serv-docs.webp",
-        "category": [
-            {
-                "type": "docs",
-                "price": 150,
-                "description": "Tenemos descuento desde las 20 unidades"
-            }
-        ]
+        "description": "Tenemos descuento desde las 20 unidades",
+        "price": 150,
+        "img_url": "[folder]/serv-docs.webp"
     },
     {
+        "category": "docs",
         "name": "Scanner",
-        "img_url": "**[folder]/serv-misc-scanner.webp",
-        "category": [
-            {
-                "type": "docs",
-                "price": 300,
-                "description": "Tenemos descuento desde las 20 unidades"
-            },
-            {
-                "type": "misc",
-                "price": 300,
-                "description": "Tenemos descuento desde las 20 unidades"
-            }
-        ]
+        "description": "Tenemos descuento desde las 20 unidades",
+        "price": 300,
+        "img_url": "**[folder]/serv-misc-scanner.webp"
     },
     {
+        "category": "pict",
         "name": "10×15cm",
-        "img_url": "**[folder]/serv-pict-1015.webp",
-        "category": [
-            {
-                "type": "pict",
-                "price": 1000,
-                "description": "$4.500 con cuadro"
-            }
-        ]
+        "description": "$4.500 con cuadro",
+        "price": 1000,
+        "img_url": "**[folder]/serv-pict-1015.webp"
     },
     {
+        "category": "pict",
         "name": "13×18cm",
-        "img_url": "**[folder]/serv-pict-1318.webp",
-        "category": [
-            {
-                "type": "pict",
-                "price": 2000,
-                "description": "$5.500 con cuadro"
-            }
-        ]
+        "description": "$5.500 con cuadro",
+        "price": 2000,
+        "img_url": "**[folder]/serv-pict-1318.webp"
     },
     {
+        "category": "pict",
         "name": "21×30cm",
-        "img_url": "**[folder]/serv-pict-2130.webp",
-        "category": [
-            {
-                "type": "pict",
-                "price": 4000,
-                "description": "$8.900 con cuadro"
-            }
-        ]
+        "description": "$8.900 con cuadro",
+        "price": 4000,
+        "img_url": "**[folder]/serv-pict-2130.webp"
     },
     {
+        "category": "pict",
         "name": "30×40cm",
-        "img_url": "**[folder]/serv-pict-3040.webp",
-        "category": [
-            {
-                "type": "pict",
-                "price": 6000,
-                "description": "$12.500 con cuadro"
-            }
-        ]
+        "description": "$12.500 con cuadro",
+        "price": 6000,
+        "img_url": "**[folder]/serv-pict-3040.webp"
     },
     {
+        "category": "pict",
         "name": "Restauración",
-        "img_url": "**[folder]/serv-pict-restauracion.webp",
-        "category": [
-            {
-                "type": "pict",
-                "price": 1200,
-                "description": "Tenemos descuento al imprimir la foto restaurada"
-            }
-        ]
+        "description": "Tenemos descuento al imprimir la foto restaurada",
+        "price": 1200,
+        "img_url": "**[folder]/serv-pict-restauracion.webp"
     },
     {
+        "category": "pict",
         "name": "Mejora de Calidad",
-        "img_url": "**[folder]/serv-pict-mejora.webp",
-        "category": [
-            {
-                "type": "pict",
-                "price": 5000,
-                "description": "Tenemos descuento al imprimirla"
-            }
-        ]
+        "description": "Tenemos descuento al imprimirla",
+        "price": 5000,
+        "img_url": "**[folder]/serv-pict-mejora.webp"
     },
     {
+        "category": "mktg",
         "name": "Marca Páginas",
-        "img_url": "[folder]/serv-mktg-marcapaginas.webp",
-        "category": [
-            {
-                "type": "mktg",
-                "price": 2000,
-                "description": "Tamaño y forma totalmente personalizado"
-            }
-        ]
+        "description": "Tamaño y forma totalmente personalizado",
+        "price": 2000,
+        "img_url": "[folder]/serv-mktg-marcapaginas.webp"
     },
     {
+        "category": "mktg",
         "name": "Tarjetas de Presentación",
-        "img_url": "[folder]/serv-mktg-tarjetas.webp",
-        "category": [
-            {
-                "type": "mktg",
-                "price": 18000,
-                "description": "A mayor cantidad, es menor el precio unitario"
-            },
-            {
-                "type": "dsgn",
-                "price": 5000,
-                "description": "Diseñamos una o dos caras y también las imprimimos"
-            }
-        ]
+        "description": "A mayor cantidad, es menor el precio unitario",
+        "price": 18000,
+        "img_url": "[folder]/serv-mktg-tarjetas.webp"
     },
     {
+        "category": "mktg",
         "name": "Imanes",
-        "img_url": "[folder]/serv-mktg-imanes.webp",
-        "category": [
-            {
-                "type": "mktg",
-                "price": 5000,
-                "description": "Tamaño y forma totalmente personalizado"
-            }
-        ]
+        "description": "Tamaño y forma totalmente personalizado",
+        "price": 5000,
+        "img_url": "[folder]/serv-mktg-imanes.webp"
     },
     {
+        "category": "mktg",
         "name": "Flyers",
-        "img_url": "[folder]/serv-mktg-flyers.webp",
-        "category": [
-            {
-                "type": "mktg",
-                "price": 19990,
-                "description": "A mayor cantidad, es menor el precio unitario"
-            },
-            {
-                "type": "dsgn",
-                "price": 12000,
-                "description": "Aprovecha la promo de diseño + impresión flyers"
-            }
-        ]
+        "description": "A mayor cantidad, es menor el precio unitario",
+        "price": 19990,
+        "img_url": "[folder]/serv-mktg-flyers.webp"
     },
     {
+        "category": "mktg",
         "name": "Posters",
-        "img_url": "[folder]/serv-mktg-posters.webp",
-        "category": [
-            {
-                "type": "mktg",
-                "price": 6000,
-                "description": "Aprovecha la promoción poster + diseño del poster"
-            }
-        ]
+        "description": "Aprovecha la promoción poster + diseño del poster",
+        "price": 6000,
+        "img_url": "[folder]/serv-mktg-posters.webp"
     },
     {
+        "category": "mktg",
         "name": "Stickers",
-        "img_url": "[folder]/serv-mktg-stickers.webp",
-        "category": [
-            {
-                "type": "mktg",
-                "price": 5000,
-                "description": "Hacemos de todos los tamaños y medidas"
-            }
-        ]
+        "description": "Hacemos de todos los tamaños y medidas",
+        "price": 5000,
+        "img_url": "[folder]/serv-mktg-stickers.webp"
     },
     {
+        "category": "mktg",
         "name": "Diplomas/Certificados",
-        "img_url": "[folder]/serv-mktg-diplomas.webp",
-        "category": [
-            {
-                "type": "mktg",
-                "price": 4000,
-                "description": "Te hacemos un precio al diseñarlo con nosmisc"
-            },
-            {
-                "type": "dsgn",
-                "price": 6000,
-                "description": "Aprovecha la promoción de diseño de certificado + impresión del certificado"
-            }
-        ]
+        "description": "Te hacemos un precio al diseñarlo con nosmisc",
+        "price": 4000,
+        "img_url": "[folder]/serv-mktg-diplomas.webp"
     },
     {
+        "category": "mktg",
         "name": "Letreros",
-        "img_url": "[folder]/serv-mktg-letreros.webp",
-        "category": [
-            {
-                "type": "mktg",
-                "price": 50000,
-                "description": "Cotiza tu letrero ILUMINADO, y aprovecha la promo letrero + diseño"
-            }
-        ]
+        "description": "Cotiza tu letrero ILUMINADO, y aprovecha la promo letrero + diseño",
+        "price": 50000,
+        "img_url": "[folder]/serv-mktg-letreros.webp"
     },
     {
+        "category": "mktg",
         "name": "Adhesivos PVC",
-        "img_url": "[folder]/serv-mktg-pvc.webp",
-        "category": [
-            {
-                "type": "mktg",
-                "price": 25900,
-                "description": "También hacemos en windows vision"
-            }
-        ]
+        "description": "También hacemos en windows vision",
+        "price": 25900,
+        "img_url": "[folder]/serv-mktg-pvc.webp"
     },
     {
+        "category": "mktg",
         "name": "Invitaciones",
-        "img_url": "[folder]/serv-mktg-invitaciones.webp",
-        "category": [
-            {
-                "type": "mktg",
-                "price": 4000,
-                "description": "Aprovecha la promo de invitación + diseño + sobre"
-            }
-        ]
+        "description": "Aprovecha la promo de invitación + diseño + sobre",
+        "price": 4000,
+        "img_url": "[folder]/serv-mktg-invitaciones.webp"
     },
     {
+        "category": "mktg",
         "name": "Pendones",
-        "img_url": "[folder]/serv-mktg-pendones.webp",
-        "category": [
-            {
-                "type": "mktg",
-                "price": 20500,
-                "description": "Todos los tamaños, también con roller si lo necesita"
-            }
-        ]
+        "description": "Todos los tamaños, también con roller si lo necesita",
+        "price": 20500,
+        "img_url": "[folder]/serv-mktg-pendones.webp"
     },
     {
+        "category": "mktg",
         "name": "Postales",
-        "img_url": "**[folder]/serv-mktg-postales.webp",
-        "category": [
-            {
-                "type": "mktg",
-                "price": 2500,
-                "description": "También podemos mejorar la calidad de tu foto"
-            }
-        ]
+        "description": "También podemos mejorar la calidad de tu foto",
+        "price": 2500,
+        "img_url": "**[folder]/serv-mktg-postales.webp"
     },
     {
+        "category": "dsgn",
         "name": "Creación de Logo",
-        "img_url": "**[folder]/serv-dsgn-logo.webp",
-        "category": [
-            {
-                "type": "dsgn",
-                "price": 20000,
-                "description": "Tenemos descuento al hacer un letrero con el logo"
-            }
-        ]
+        "description": "Tenemos descuento al hacer un letrero con el logo",
+        "price": 20000,
+        "img_url": "**[folder]/serv-dsgn-logo.webp"
     },
     {
+        "category": "dsgn",
+        "name": "Tarjetas de Presentación",
+        "description": "Diseñamos una o dos caras y también las imprimimos",
+        "price": 5000,
+        "img_url": "[folder]/serv-mktg-tarjetas.webp"
+    },
+    {
+        "category": "dsgn",
         "name": "Redes Sociales",
-        "img_url": "**[folder]/serv-dsgn-rrss.webp",
-        "category": [
-            {
-                "type": "dsgn",
-                "price": 2000,
-                "description": "Hacemos publicaciones semanales e historias"
-            }
-        ]
+        "description": "Hacemos publicaciones semanales e historias",
+        "price": 2000,
+        "img_url": "**[folder]/serv-dsgn-rrss.webp"
     },
     {
+        "category": "dsgn",
+        "name": "Flyers",
+        "description": "Aprovecha la promo de diseño + impresión flyers",
+        "price": 12000,
+        "img_url": "[folder]/serv-mktg-flyers.webp"
+    },
+    {
+        "category": "dsgn",
+        "name": "Diplomas/Certificados",
+        "description": "Aprovecha la promoción de diseño de certificado + impresión del certificado",
+        "price": 6000,
+        "img_url": "[folder]/serv-mktg-diplomas.webp"
+    },
+    {
+        "category": "dsgn",
         "name": "Afiches",
-        "img_url": "**[folder]/serv-dsgn-afiches.webp",
-        "category": [
-            {
-                "type": "dsgn",
-                "price": 5000,
-                "description": "Afiche, banner y mucho más"
-            }
-        ]
+        "description": "Afiche, banner y mucho más",
+        "price": 5000,
+        "img_url": "**[folder]/serv-dsgn-afiches.webp"
     },
     {
+        "category": "misc",
         "name": "Anillado",
-        "img_url": "[folder]/serv-misc-anillado.webp",
-        "category": [
-            {
-                "type": "misc",
-                "price": 3500,
-                "description": "Aprovecha la promo impresión de libro + anillado"
-            }
-        ]
+        "description": "Aprovecha la promo impresión de libro + anillado",
+        "price": 3500,
+        "img_url": "[folder]/serv-misc-anillado.webp"
     },
     {
+        "category": "misc",
+        "name": "Scanner",
+        "description": "Tenemos descuento desde las 20 unidades",
+        "price": 300,
+        "img_url": "**[folder]/serv-misc-scanner.webp"
+    },
+    {
+        "category": "misc",
         "name": "Trámites en línea",
-        "img_url": "**[folder]/serv-misc-tramites.webp",
-        "category": [
-            {
-                "type": "misc",
-                "price": 2000,
-                "description": "Desde certificados en línea a postulación a beneficio"
-            }
-        ]
+        "description": "Desde certificados en línea a postulación a beneficio",
+        "price": 2000,
+        "img_url": "**[folder]/serv-misc-tramites.webp"
     },
     {
+        "category": "misc",
         "name": "Redacción de Documentos",
-        "img_url": "**[folder]/serv-misc-redaccion.webp",
-        "category": [
-            {
-                "type": "misc",
-                "price": 2000,
-                "description": "Desde curriculum hasta cotizaciones"
-            }
-        ]
+        "description": "Desde curriculum hasta cotizaciones",
+        "price": 2000,
+        "img_url": "**[folder]/serv-misc-redaccion.webp"
     },
     {
+        "category": "misc",
         "name": "Código QR",
-        "img_url": "**[folder]/serv-misc-qr.webp",
-        "category": [
-            {
-                "type": "misc",
-                "price": 5000,
-                "description": "Para menus, redes sociales y mucho más"
-            }
-        ]
+        "description": "Para menus, redes sociales y mucho más",
+        "price": 5000,
+        "img_url": "**[folder]/serv-misc-qr.webp"
     },
     {
+        "category": "misc",
         "name": "Mantenimiento de Impresoras",
-        "img_url": "**[folder]/serv-misc-mantenimiento.webp",
-        "category": [
-            {
-                "type": "misc",
-                "price": 20000,
-                "description": "Incluye limpieza de la impresora sin costo extra"
-            }
-        ]
+        "description": "Incluye limpieza de la impresora sin costo extra",
+        "price": 20000,
+        "img_url": "**[folder]/serv-misc-mantenimiento.webp"
     }
 ]
