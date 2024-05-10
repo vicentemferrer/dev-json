@@ -85,24 +85,10 @@
     },
     {
         "category": "mktg",
-        "name": "Marca Páginas",
-        "description": "Tamaño y forma totalmente personalizado",
-        "price": 2000,
-        "img_url": "[folder]/serv-mktg-marcapaginas.webp"
-    },
-    {
-        "category": "mktg",
         "name": "Tarjetas de Presentación",
         "description": "A mayor cantidad, es menor el precio unitario",
-        "price": 18000,
+        "price": 13500,
         "img_url": "[folder]/serv-mktg-tarjetas.webp"
-    },
-    {
-        "category": "mktg",
-        "name": "Imanes",
-        "description": "Tamaño y forma totalmente personalizado",
-        "price": 5000,
-        "img_url": "[folder]/serv-mktg-imanes.webp"
     },
     {
         "category": "mktg",
@@ -127,24 +113,10 @@
     },
     {
         "category": "mktg",
-        "name": "Diplomas/Certificados",
-        "description": "Te hacemos un precio al diseñarlo con nosmisc",
+        "name": "Diplomas",
+        "description": "Te hacemos un precio al diseñarlo con nosotros",
         "price": 4000,
         "img_url": "[folder]/serv-mktg-diplomas.webp"
-    },
-    {
-        "category": "mktg",
-        "name": "Letreros",
-        "description": "Cotiza tu letrero ILUMINADO, y aprovecha la promo letrero + diseño",
-        "price": 50000,
-        "img_url": "[folder]/serv-mktg-letreros.webp"
-    },
-    {
-        "category": "mktg",
-        "name": "Adhesivos PVC",
-        "description": "También hacemos en windows vision",
-        "price": 25900,
-        "img_url": "[folder]/serv-mktg-pvc.webp"
     },
     {
         "category": "mktg",
@@ -155,17 +127,87 @@
     },
     {
         "category": "mktg",
+        "name": "Calendarios",
+        "description": "También podemos mejorar la calidad de tu foto",
+        "price": 2500,
+        "img_url": "[folder]/serv-mktg-calendarios.webp"
+    },
+    {
+        "category": "mktg",
+        "name": "Marca Páginas",
+        "description": "Tamaño y forma totalmente personalizado",
+        "price": 2000,
+        "img_url": "[folder]/serv-mktg-marcapaginas.webp"
+    },
+    {
+        "category": "mktg",
+        "name": "Imanes",
+        "description": "Tamaño y forma totalmente personalizado",
+        "price": 5000,
+        "img_url": "[folder]/serv-mktg-imanes.webp"
+    },
+    {
+        "category": "mktg",
         "name": "Pendones",
         "description": "Todos los tamaños, también con roller si lo necesita",
-        "price": 20500,
+        "price": 15000,
         "img_url": "[folder]/serv-mktg-pendones.webp"
     },
     {
         "category": "mktg",
-        "name": "Postales",
-        "description": "También podemos mejorar la calidad de tu foto",
-        "price": 2500,
-        "img_url": "**[folder]/serv-mktg-postales.webp"
+        "name": "Letreros PVC",
+        "description": "Cotiza tu letrero con base de madera y aprovecha la promo letrero + diseño",
+        "price": 25000,
+        "img_url": "[folder]/serv-mktg-let-pvc.webp"
+    },
+    {
+        "category": "mktg",
+        "name": "Adhesivos PVC",
+        "description": "También hacemos troquelados",
+        "price": 25900,
+        "img_url": "[folder]/serv-mktg-ahd-pvc.webp"
+    },
+    {
+        "category": "mktg",
+        "name": "Windows Vision",
+        "description": "Cotiza la instalación del windows vision",
+        "price": 20000,
+        "img_url": "[folder]/serv-mktg-windows.webp"
+    },
+    {
+        "category": "mktg",
+        "name": "Vinilo de Corte",
+        "description": "También podemos diseñarlo",
+        "price": 5000,
+        "img_url": "**[folder]/serv-mktg-vinilo.webp"
+    },
+    {
+        "category": "mktg",
+        "name": "Letreros Luminosos",
+        "description": "Cotiza tu instalación del letrero",
+        "price": 85000,
+        "img_url": "[folder]/serv-mktg-let-luminosos.webp"
+    },
+    {
+        "category": "mktg",
+        "name": "Letreros Volumétricos",
+        "description": "Podemos diseñarlo e instalarlo",
+        "price": 200000,
+        "img_url": "[folder]/serv-mktg-let-volumetricos.webp"
+    },
+    {
+        "category": "mktg",
+        "name": "Letreros Sintra",
+        "description": "Cotiza + el diseño del letrero",
+        "price": 30000,
+        "img_url": "[folder]/serv-mktg-let-sintra.webp"
+    },
+    {
+        "category": "mktg",
+        "name": "Palomas Publicitarias",
+        "description": "Se la entregamos a domicilio también",
+        "price": 50000,
+        "img_url": "[folder]/serv-mktg-palomas.webp"
     },
     {
         "category": "dsgn",
@@ -176,6 +218,20 @@
     },
     {
         "category": "dsgn",
+        "name": "Letreros",
+        "description": "Hacemos Pack + instalación y confección del letrero",
+        "price": 20000,
+        "img_url": "**[folder]/serv-dsgn-letreros.webp"
+    },
+    {
+        "category": "dsgn",
+        "name": "Certificados",
+        "description": "Aprovecha la promoción de diseño de certificado + impresión del certificado",
+        "price": 6000,
+        "img_url": "[folder]/serv-mktg-diplomas.webp"
+    },
+    {
+        "category": "dsgn",
         "name": "Tarjetas de Presentación",
         "description": "Diseñamos una o dos caras y también las imprimimos",
         "price": 5000,
@@ -183,24 +239,10 @@
     },
     {
         "category": "dsgn",
-        "name": "Redes Sociales",
-        "description": "Hacemos publicaciones semanales e historias",
-        "price": 2000,
-        "img_url": "**[folder]/serv-dsgn-rrss.webp"
-    },
-    {
-        "category": "dsgn",
         "name": "Flyers",
         "description": "Aprovecha la promo de diseño + impresión flyers",
         "price": 12000,
         "img_url": "[folder]/serv-mktg-flyers.webp"
-    },
-    {
-        "category": "dsgn",
-        "name": "Diplomas/Certificados",
-        "description": "Aprovecha la promoción de diseño de certificado + impresión del certificado",
-        "price": 6000,
-        "img_url": "[folder]/serv-mktg-diplomas.webp"
     },
     {
         "category": "dsgn",
@@ -213,7 +255,7 @@
         "category": "misc",
         "name": "Anillado",
         "description": "Aprovecha la promo impresión de libro + anillado",
-        "price": 3500,
+        "price": 3000,
         "img_url": "[folder]/serv-misc-anillado.webp"
     },
     {

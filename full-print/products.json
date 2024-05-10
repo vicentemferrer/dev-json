@@ -1,38 +1,38 @@
 [
     {
-        "name": "Sobres",
-        "description": "Tamaño carta, americano y más",
-        "price": 0.0,
-        "img_url": "[folder]/prod-sobres.webp"
-    },
-    {
-        "name": "Fundas Transparentes",
-        "description": "Tamaño carta y oficio",
-        "price": 0.0,
-        "img_url": "[folder]/prod-fundas.webp"
-    },
-    {
-        "name": "Carpetas Plastificadas",
-        "description": "",
-        "price": 0.0,
-        "img_url": "[folder]/prod-carpetas.webp"
-    },
-    {
-        "name": "Hoja Carta x250",
+        "name": "Resma Hoja Carta x250",
         "description": "Papel bond de 72g (250 hojas)",
         "price": 4690,
         "img_url": "**[folder]/prod-carta-1.webp"
     },
     {
-        "name": "Hoja Carta x500",
+        "name": "Resma Hoja Carta x500",
         "description": "Papel bond de 72g (500 hojas)",
         "price": 8290,
         "img_url": "**[folder]/prod-carta-2.webp"
     },
     {
-        "name": "Hoja Oficio x500",
+        "name": "Resma Hoja Oficio x500",
         "description": "Papel bond de 72g (500 hojas)",
         "price": 9690,
         "img_url": "**[folder]/prod-oficio.webp"
+    },
+    {
+        "name": "Sobres",
+        "description": "Tamaño carta, americano y más",
+        "price": 300,
+        "img_url": "[folder]/prod-sobres.webp"
+    },
+    {
+        "name": "Fundas Transparentes",
+        "description": "Tamaño carta y oficio",
+        "price": 200,
+        "img_url": "[folder]/prod-fundas.webp"
+    },
+    {
+        "name": "Carpetas Plastificadas",
+        "description": "",
+        "price": 900,
+        "img_url": "[folder]/prod-carpetas.webp"
     }
 ]
